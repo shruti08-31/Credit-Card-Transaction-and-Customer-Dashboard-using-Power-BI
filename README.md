@@ -104,3 +104,31 @@ Provides insights into:
 - Creating KPI-driven visualizations
 - Business Intelligence reporting
 ---
+## 🎓 Academic Context
+
+This project was developed as a Business Intelligence and Data Analytics project to demonstrate the end-to-end workflow of transforming raw data into interactive dashboards.
+
+**Program:**  
+B.Tech in Artificial Intelligence and Data Science Engineering
+
+**Institution:**  
+Gati Shakti Vishwavidyalaya
+
+---
+
+## 👩‍💻 Author
+
+**Shruti Prasad**
+
+- GitHub: https://github.com/shruti08-31
+- LinkedIn: https://www.linkedin.com/in/shruti-prasad/ *(replace with your profile if different)*
+
+---
+
+## ⚠️ Disclaimer
+
+This repository is intended for educational and portfolio purposes only.
+
+The dashboards were created using a publicly available/sample credit card dataset to demonstrate data cleaning, SQL data transformation, Power BI data modeling, DAX measures, and interactive dashboard development. The project is designed to showcase Business Intelligence and data visualization skills and should not be interpreted as representing any real financial institution or customer data.
+
+To use this project with another dataset, replace the source CSV files, update the SQL database, refresh the Power BI data model, and rebuild the required DAX measures if necessary.
