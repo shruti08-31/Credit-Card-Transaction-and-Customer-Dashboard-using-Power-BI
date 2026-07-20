@@ -121,7 +121,7 @@ Gati Shakti Vishwavidyalaya
 **Shruti Prasad**
 
 - GitHub: https://github.com/shruti08-31
-- LinkedIn: https://www.linkedin.com/in/shruti-prasad/ *(replace with your profile if different)*
+- LinkedIn: https://www.linkedin.com/in/shruti-prasad-35123636b/
 
 ---
 
