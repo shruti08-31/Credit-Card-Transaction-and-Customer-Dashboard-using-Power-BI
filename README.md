@@ -131,4 +131,3 @@ This repository is intended for educational and portfolio purposes only.
 
 The dashboards were created using a publicly available/sample credit card dataset to demonstrate data cleaning, SQL data transformation, Power BI data modeling, DAX measures, and interactive dashboard development. The project is designed to showcase Business Intelligence and data visualization skills and should not be interpreted as representing any real financial institution or customer data.
 
-To use this project with another dataset, replace the source CSV files, update the SQL database, refresh the Power BI data model, and rebuild the required DAX measures if necessary.
