@@ -93,21 +93,6 @@ Provides insights into:
 
 ---
 
-
-## 📸 Dashboard Preview
-
-### Credit Card Customer Dashboard
-
-(Add screenshot here)
-
----
-
-### Credit Card Transaction Dashboard
-
-(Add screenshot here)
-
----
-
 ## 🎯 Key Learning Outcomes
 
 - Data import from CSV to SQL
@@ -118,7 +103,4 @@ Provides insights into:
 - Building interactive business dashboards
 - Creating KPI-driven visualizations
 - Business Intelligence reporting
-
 ---
-
-## ⭐ If you found this project useful, consider giving the repository a star!
